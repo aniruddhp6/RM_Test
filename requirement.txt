@@ -1,2 +1,2 @@
-I have share a github link where you will find the project folder "api_project" and also the Postman Collection file of this project.
+I have share a github link where you will find the project folder "api_project" and also the Postman Collection Json file of this project.
 
